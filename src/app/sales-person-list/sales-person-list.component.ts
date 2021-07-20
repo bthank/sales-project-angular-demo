@@ -14,7 +14,9 @@ export class SalesPersonListComponent implements OnInit {
     new SalesPerson("Amy","Taylow","amy.taylor@aol.com",90000),
     new SalesPerson("Myra","Banks","myra.banks@gmail.com",80000),
     new SalesPerson("Peter","Stadler","peter.stadler@aol.com",40000),
-    new SalesPerson("Kara","Edwards","kara.edwards@gmail.com",55000)
+    new SalesPerson("Kara","Edwards","kara.edwards@gmail.com",55000),
+    new SalesPerson("Mike","Wallace","mike.wallace@aol.com",60000),
+    new SalesPerson("Karen","Fields","karen.fields@gmail.com",41000)
 
 
   ];
